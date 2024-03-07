@@ -1,6 +1,6 @@
 
 
 def hello_world():
-    return "Hello, World!!"
+    return "Hello, Mekroz!"
 
 print(hello_world())
